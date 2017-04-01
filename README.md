@@ -18,7 +18,7 @@ ListUp is a startup by IIT B alumnus which is a P2P social buying and selling ma
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc1.webp" width="200" height="320"> &emsp;
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc2.png" width="200" height="320"> &emsp;
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc3.png" width="200" height="320"> &emsp;
-<img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc6.png" width="200" height="320"> &emsp;
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc7.png" width="200" height="320"> &emsp;
+<img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc6.png" width="200" height="320"> &emsp;
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc5.png" width="200" height="320"> &emsp;
 <img src="https://github.com/kaushalbhardwaj/ListUp/blob/master/screenshots/sc6.png" width="200" height="320"> &emsp;
